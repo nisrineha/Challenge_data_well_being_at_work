@@ -1,0 +1,9 @@
+HISTGRQDIENT BOOST 
+{'classifier__learning_rate': 0.2, 'classifier__max_bins': 100, 'classifier__max_iter': 100, 'classifier__max_leaf_nodes': 10, 'classifier__min_samples_leaf': 20}
+0.70078125
+
+
+{'classifier__learning_rate': 0.3, 'classifier__max_bins': 50, 'classifier__max_iter': 10, 'classifier__max_leaf_nodes': 8, 'classifier__min_samples_leaf': 10}
+0.71015625
+
+{'classifier__learning_rate': 0.1, 'classifier__max_bins': 60, 'classifier__max_iter': 5, 'classifier__max_leaf_nodes': 9, 'classifier__min_samples_leaf': 15}
